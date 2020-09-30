@@ -1,28 +1,12 @@
 {
-  "files": {
-    "main.js": "/index/static/js/main.737f0be3.chunk.js",
-    "main.js.map": "/index/static/js/main.737f0be3.chunk.js.map",
-    "runtime-main.js": "/index/static/js/runtime-main.9d004f3b.js",
-    "runtime-main.js.map": "/index/static/js/runtime-main.9d004f3b.js.map",
-    "static/js/2.ae126ce7.chunk.js": "/index/static/js/2.ae126ce7.chunk.js",
-    "static/js/2.ae126ce7.chunk.js.map": "/index/static/js/2.ae126ce7.chunk.js.map",
-    "index.html": "/index/index.html",
-    "precache-manifest.e009d0025e3fa47da0c3bed8999452ec.js": "/index/precache-manifest.e009d0025e3fa47da0c3bed8999452ec.js",
-    "service-worker.js": "/index/service-worker.js",
-    "static/js/2.ae126ce7.chunk.js.LICENSE": "/index/static/js/2.ae126ce7.chunk.js.LICENSE",
-    "static/media/bg.mp3": "/index/static/media/bg.a93d8e1a.mp3",
-    "static/media/click.mp3": "/index/static/media/click.8d516cce.mp3",
-    "static/media/earth.jpg": "/index/static/media/earth.12d16034.jpg",
-    "static/media/engine.mp3": "/index/static/media/engine.e896d081.mp3",
-    "static/media/engine2.mp3": "/index/static/media/engine2.bdb08091.mp3",
-    "static/media/explosion.mp3": "/index/static/media/explosion.5c5ce697.mp3",
-    "static/media/laser.mp3": "/index/static/media/laser.a97c8e67.mp3",
-    "static/media/moon.png": "/index/static/media/moon.85e26bcf.png",
-    "static/media/warp.mp3": "/index/static/media/warp.5699f1c4.mp3"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.9d004f3b.js",
-    "static/js/2.ae126ce7.chunk.js",
-    "static/js/main.737f0be3.chunk.js"
-  ]
+  "main.css": "static/css/main.b3d4da52.css",
+  "main.css.map": "static/css/main.b3d4da52.css.map",
+  "main.js": "static/js/main.649d9796.js",
+  "main.js.map": "static/js/main.649d9796.js.map",
+  "static\\media\\reem-kufi-v4-latin-regular.woff": "static/media/reem-kufi-v4-latin-regular.20e4fd7e.woff",
+  "static\\media\\reem-kufi-v4-latin-regular.woff2": "static/media/reem-kufi-v4-latin-regular.d8f8811d.woff2",
+  "static\\media\\roboto-100.woff2": "static/media/roboto-100.9a8a1f8c.woff2",
+  "static\\media\\roboto-300.woff2": "static/media/roboto-300.c0cc9c92.woff2",
+  "static\\media\\roboto-400.woff2": "static/media/roboto-400.ece6673e.woff2",
+  "static\\media\\roboto-900.woff2": "static/media/roboto-900.2e17a648.woff2"
 }
